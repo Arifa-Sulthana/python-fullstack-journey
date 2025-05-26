@@ -1,2 +1,3 @@
-# python-fullstack-journey
-My journey to become a top Python + AI Developer
+# Python Full-Stack Journey
+
+Welcome to my Python Full-Stack journey! 🚀
