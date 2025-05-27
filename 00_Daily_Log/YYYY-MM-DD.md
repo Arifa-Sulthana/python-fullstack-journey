@@ -27,3 +27,15 @@
 - Pattern-based string puzzles
 
 ---
+
+# ✅ Day 7 Topics Covered:
+- String slicing deep dive
+- Reversing logic
+- Extracting structured data from logs
+- Solved challenge: Extracted Date, Time, Message from a log line
+
+# 🧠 Skills Practiced:
+- Indexing and slicing strings
+- Using split(), join(), reversed()
+- Parsing and reconstructing string info
+- Practicing real-world logging patterns
