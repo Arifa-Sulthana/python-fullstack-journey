@@ -1,6 +1,6 @@
 # Daily Log
 
-# ✅ Day 6 - String Logic + Tuple/Set/Counter Recap
+# ✅ Day 1-6 - String Logic + Tuple/Set/Counter Recap
 
 ## 🧠 Topics Covered
 - Tuple vs List
@@ -39,3 +39,35 @@
 - Using split(), join(), reversed()
 - Parsing and reconstructing string info
 - Practicing real-world logging patterns
+
+---
+
+
+# ✅ Day 8 Topics Covered:
+Python Dictionaries: Deep Practice
+
+.get() method and default values
+
+Nested Dictionary Access and Updates
+
+Iterating over .items() and .values()
+
+Dictionary Comprehensions
+
+🔍 Challenges Solved:
+Safely retrieving non-existing keys using .get()
+
+Accessing and modifying nested values (skills, projects)
+
+Iterating employee dictionary to filter based on salary
+
+Building dictionary with even numbers and their squares
+
+🧠 What I Learned:
+Difference between direct key access vs .get()
+
+How to loop through nested dictionaries efficiently
+
+When and how to use dictionary comprehensions
+
+Clean coding practices with real-world data models
