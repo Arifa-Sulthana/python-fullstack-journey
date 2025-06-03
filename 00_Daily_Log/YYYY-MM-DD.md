@@ -71,3 +71,40 @@ How to loop through nested dictionaries efficiently
 When and how to use dictionary comprehensions
 
 Clean coding practices with real-world data models
+
+
+# ✅ Day 9 Topics Covered:
+- Dictionary Comprehension ✅
+- Nested Dictionary Iteration ✅
+
+**Challenges Solved:**
+- 📦 Inventory stock filter:
+  ```python
+  inventory = {
+      "pen": 10,
+      "pencil": 0,
+      "notebook": 5,
+      "eraser": 0
+  }
+  in_stock = {item: f"In Stock ({c})" for item, c in inventory.items() if c > 0}
+🎓 Increase student marks by +5:
+
+python
+Copy
+Edit
+grades = {
+    "Alice": {"Math": 88, "Science": 76, "English": 92},
+    "Bob": {"Math": 67, "Science": 90, "English": 78},
+    "Charlie": {"Math": 95, "Science": 85, "English": 87}
+}
+new_grades = {
+    name: {sub: m + 5 for sub, m in s.items()}
+    for name, s in grades.items()
+}
+What I Learned:
+
+How to iterate and modify nested dictionaries using comprehension.
+
+Real-world use cases like inventory filtering and report card updates.
+
+Importance of clean variable naming for better readability.
