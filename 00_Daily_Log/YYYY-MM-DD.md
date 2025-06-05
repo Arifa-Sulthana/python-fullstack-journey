@@ -108,3 +108,22 @@ How to iterate and modify nested dictionaries using comprehension.
 Real-world use cases like inventory filtering and report card updates.
 
 Importance of clean variable naming for better readability.
+
+
+# ✅ Day 10 Topics Covered:
+
+.get() method (safe key access)
+
+dict.items() and iteration
+
+Dictionary Comprehension (basic and nested)
+
+Conditional logic inside comprehension
+
+Real-world-style dictionary transformation
+
+Challenges Solved:
+
+Extracting high-rated items from product reviews
+
+Mapping employee names to salary categories using nested dictionaries
